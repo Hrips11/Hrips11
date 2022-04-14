@@ -2,7 +2,7 @@ let qa = ["0 - Tatevik", "    1 -  Hripsime", "    2 - Anna", "    3 - Vazgen", 
 
 while (true) {
 
-  let answer = prompt("Who is your favoite QA engineer? \n\n" + qa + "\n\n" + "Please write the number." + "\n\n" + "If you want to exit press any letter");
+  let answer = prompt("Who is your favoite QA engineer? \n\n" + qa + "\n\n" + "Please write the number." + "\n\n" + "If you want to exit press Exit");
 
 
   if (answer == "exit") {
