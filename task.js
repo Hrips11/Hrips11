@@ -6,7 +6,7 @@ while (true) {
 
 
   if (answer == "exit") {
-    alert("thank you");
+    alert("Thank you");
     break;
   }
   let answer1 = +answer;
